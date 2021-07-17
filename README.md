@@ -1,1 +1,2 @@
 # rickAndMortyAPI_python
+Make the correct amount of requests to the API to get back information about the characters and how many episodes they have appeared in, and recieve that information in a nice list. 
